@@ -12,7 +12,11 @@
 · 📝 [Blog](https://steamtools.games/blog)
 · 🌍 Available in 7 languages
 
-[![Website](https://img.shields.io/badge/Website-steamtools.games-0b1220?style=for-the-badge)](https://steamtools.games/) [![API](https://img.shields.io/badge/API-Public%20%26%20Free-22c55e?style=for-the-badge)](https://steamtools.games/developers) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/FDKpJu5zgT) [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-steamtools.games-0b1220?style=for-the-badge)](https://steamtools.games/) [![API](https://img.shields.io/badge/API-Public%20%26%20Free-22c55e?style=for-the-badge)](https://steamtools.games/developers) [![Booster](https://img.shields.io/badge/Game_Booster-GearUP_5x_Speed-ff4655?style=for-the-badge&logo=fastlane&logoColor=white)](https://gearup.gg/aff?p=KTeQ719IlU3u) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/FDKpJu5zgT) [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge)](LICENSE)
+
+<p align="center">
+  <b>English</b> • <a href="README_zh.md">简体中文 (含雷神加速器免费福利)</a>
+</p>
 
 </div>
 
@@ -161,6 +165,18 @@ project.
 - **Request a new App ID** → [Open an issue](https://github.com/steamtools-games/ManifestHub3/issues/new?template=request-app-id.yml)
 - **Report a broken file** → [Open an issue](https://github.com/steamtools-games/ManifestHub3/issues/new?template=report-broken-file.yml)
 - **Add data directly** → Create a branch named `<AppID>`, add `<AppID>.lua` and `key.vdf`, open a PR.
+
+---
+
+## ⚡ Recommended Network Optimizer (Global Players)
+
+For gamers experiencing high ping, packet loss, or slow Steam CDN downloads, we recommend **GearUP Booster**:
+- 🚀 **Patented Adaptive Intelligent Routing** — Dynamic multi-path latency reduction directly to Steam CDN & multiplayer game server clusters.
+- 📥 **Accelerated Depot Downloads** — Up to 5x faster manifest binary chunks synchronization.
+- 🎮 **Zero Configuration** — Fully optimized for Windows 10/11, macOS, and handheld gaming.
+- 👉 **[Download GearUP Booster (Free Trial)](https://gearup.gg/aff?p=KTeQ719IlU3u)**
+
+---
 
 ## Credits
 
